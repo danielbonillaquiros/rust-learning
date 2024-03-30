@@ -16,3 +16,8 @@ You can run this executable with:
 ```
 ./target/debug/hello_cargo
 ```
+
+Code can also be compiled and executed at once by running:
+```
+cargo run
+```
