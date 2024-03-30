@@ -21,3 +21,13 @@ Code can also be compiled and executed at once by running:
 ```
 cargo run
 ```
+
+There's also a command to check the code compiles without producing an executable:
+```
+cargo check
+```
+
+When ready for release:
+```
+cargo build --release
+```
